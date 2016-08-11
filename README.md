@@ -2,7 +2,13 @@
 
 A high order function to decorate a react component to conditionally update the rendered component based on the rendered result.
 
-Example:
+### Demo
+
+```sh
+npm i && npm start
+```
+
+### Example:
 
 ```js
 
