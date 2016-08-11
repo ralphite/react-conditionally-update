@@ -1,7 +1,12 @@
 {
   "name": "react-conditionally-update",
   "version": "0.0.1",
-  "private": true,
+  "author": {
+    "name": "Yadong Wen",
+    "email": "ralph.wen@gmail.com"
+  },
+  "license": "MIT",
+  "main": "./src/conditionallyUpdate.js",
   "devDependencies": {
     "react-scripts": "0.2.1"
   },
